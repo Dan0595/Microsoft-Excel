@@ -16,4 +16,4 @@ Transformar y visualizar los datos que permita a los propietarios de la tienda o
 ![Grafico](https://github.com/Dan0595/Microsoft-Excel/assets/174620450/44cbc820-e6cf-4276-b6b5-488d5f0c6fc9)
 
 ### Codigo utilizado en el analisis 
-¨¨¨¨  SELECT* FROM TABLE¨¨¨¨
+¨¨¨¨ SELECT* FROM table ¨¨¨¨
