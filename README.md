@@ -13,4 +13,3 @@ Transformar y visualizar los datos que permita a los propietarios de la tienda o
 2. Bajo rendimiento en la categoria de electronica
    - Esta categoria a expermimentado una disminucion costante en las ventas al compararla con otras como ropa y belleza.
 
-![Convocatoria Analista Administrativo Equipo Operativo](https://github.com/Dan0595/Microsoft-Excel/assets/174620450/d20330f4-f945-48a3-880f-4ca3b683bb81)
