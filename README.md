@@ -1,2 +1,7 @@
-# Microsoft-Excel
-En este proyecto se analizara la base de datos con el  software  Microsoft Excel para determinar el numero de servicios de transporte realizados en el mes de Junio
+#Analisis de Ventas en la tienda x
+
+## Contexto 
+Este conjunto de datos contienne analisis sobre las ventas de una tienda.
+
+## Objetivo 
+Transformar y visualizar los datos que permita a los propietarios de la tienda obtener información valiosa.
